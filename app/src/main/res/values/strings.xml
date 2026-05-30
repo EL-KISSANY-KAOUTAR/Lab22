@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nexus JNI Engine</string>
+    <string name="subtitle_app">High-Level C++ Integration</string>
+    <string name="hello_jni">System Ready: C++ Core Online</string>
+
+    <string name="label_factorial">Advanced Math Kernel</string>
+    <string name="label_string">String Transformation Unit</string>
+    <string name="label_array">Memory Data Processor</string>
+
+    <string name="fmt_factorial">Factorial Calculation: %1$d</string>
+    <string name="fmt_reverse">Reversed Output: %1$s</string>
+    <string name="fmt_array">Computed Sum: %1$d</string>
+
+    <string name="loading_text">Waiting for C++...</string>
+
+    <!-- TODO: Replace with your actual Google Maps API key -->
+    <string name="google_maps_key" translatable="false">YOUR_KEY_HERE</string>
+</resources>
